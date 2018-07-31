@@ -1,8 +1,6 @@
 # Frogger
 This is a simple little JavaScript browser game I built mimicking the classic arcade game. Help the poor defenseless frog navigate the scary traffic without getting him squished!
 
-## [Live](https://ltspringthorpe.github.io)
-
 ### Built with Canvas
 
 The root page renders a canvas where I drop in a new instance of the game and run the GameView method Start.
